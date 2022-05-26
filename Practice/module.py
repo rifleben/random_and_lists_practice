@@ -1,5 +1,5 @@
 """
-creating a module to see how I can pull from it in the random_module_practice.py file
+creating a module to see how I can pull from it in the rand_mod_practice.py file
 
 """
 
